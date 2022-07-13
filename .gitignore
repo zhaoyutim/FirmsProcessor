@@ -1,2 +1,5 @@
 data
 venv
+.idea
+.DS_Store
+.gitignore
